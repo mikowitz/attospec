@@ -1,3 +1,5 @@
+![Build Image](https://travis-ci.org/mikowitz/attospec.svg?branch=master)
+
 # attospec
 
 lightweight testing
